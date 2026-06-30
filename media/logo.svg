@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+
+<line x1="31.25" y1="23.43" x2="30.39" y2="13.57" stroke="#13243a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="30.05" cy="9.69" r="3.10" fill="#13243a"/>
+<line x1="24.03" y1="28.78" x2="15.77" y2="25.44" stroke="#13243a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="12.53" cy="24.13" r="2.70" fill="#13243a"/>
+<line x1="24.71" y1="36.56" x2="16.06" y2="41.96" stroke="#13243a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="12.58" cy="44.14" r="3.30" fill="#13243a"/>
+<line x1="31.70" y1="40.59" x2="31.39" y2="49.49" stroke="#13243a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="31.27" cy="52.99" r="2.70" fill="#13243a"/>
+<line x1="38.78" y1="37.29" x2="46.18" y2="43.08" stroke="#13243a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="49.18" cy="45.42" r="3.00" fill="#13243a"/>
+<line x1="39.04" y1="27.07" x2="49.04" y2="20.07" stroke="#3f8ed4" stroke-width="3.40" stroke-linecap="round"/>
+<path d="M52.48,17.66 L50.01,23.54 L46.11,17.97 Z" fill="#3f8ed4"/>
+<circle cx="32.0" cy="32.0" r="4.4" fill="#13243a"/>
+<circle cx="32.0" cy="32.0" r="1.9" fill="#3f8ed4"/>
+</svg>
